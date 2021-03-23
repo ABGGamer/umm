@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Sample Project</title>
-	<atom:link href="https://user-68311798-work.colibriwp.com/sample-project/feed/" rel="self" type="application/rss+xml" />
+	<title>NemesisX</title>
+	<atom:link href="https://nemsisx.shop/sample/feed/" rel="self" type="application/rss+xml" />
 	<link>https://user-68311798-work.colibriwp.com/sample-project</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 03 Apr 2019 13:26:10 +0000</lastBuildDate>
